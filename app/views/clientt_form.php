@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once __DIR__.'../../config/config.php';
+require_once __DIR__.'../../../config/config.php';
 require_once '../../config/database.php'; // Adjust the path according to your folder structure
 require_once '../../app/controllers/ClientController.php';
 
