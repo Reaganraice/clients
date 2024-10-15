@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once('../config/config.php');
+require_once '../../config/config.php';
 require_once '../../app/controllers/ContactController.php';
 require_once '../../app/models/Contact.php'; // Include the Contact model
 
